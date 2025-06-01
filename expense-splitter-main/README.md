@@ -16,10 +16,6 @@ Expense Splitter is a React application designed to simplify the process of mana
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Eloquence98/expense-splitter
 
 
 2. Navigate to the project directory:
